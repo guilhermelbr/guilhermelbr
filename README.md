@@ -1,3 +1,4 @@
+# ---| My stats & top contribuicions |---
 
 <table align="center">
   <tr>
@@ -6,7 +7,6 @@
       <br/>
       <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelbr&amp;theme=holi&amp;layout=compact&amp;size_weight=0&amp;count_weight=1&amp;hide=Jupyter+Notebook"/>
     </td>
-    
   <td valign="top">
       <img height="127em" src="https://github-readme-stats.vercel.app/api/pin/?username=aikoian&amp;repo=Pesquisa-ADO&amp;theme=holi"/>
       <br/>
