@@ -9,15 +9,15 @@
     </td>
     <td valign="top">
       <a href="https://github.com/aikoian/Pesquisa-ADO">
-        <img height="127em" src="https://github-readme-stats.vercel.app/api/pin/?username=aikoian&amp;repo=Pesquisa-ADO&amp;theme=holi" />
+        <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=aikoian&amp;repo=Pesquisa-ADO&amp;theme=holi" />
       </a>
       <br/>
       <a href="https://github.com/guilhermelbr/checkers_game">
-        <img height="127em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=checkers_game&amp;theme=holi"/>
+        <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=checkers_game&amp;theme=holi"/>
       </a>
       <br/>
       <a href="https://github.com/guilhermelbr/Popularidade-Spotify">
-        <img height="127em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=Popularidade-Spotify&amp;theme=holi"/>
+        <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=Popularidade-Spotify&amp;theme=holi"/>
       </a>
       <br/>
     </td>
