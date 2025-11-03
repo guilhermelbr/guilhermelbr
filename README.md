@@ -8,7 +8,7 @@
       <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelbr&amp;theme=holi&amp;layout=compact&amp;size_weight=0&amp;count_weight=1&amp;hide=Jupyter%20Notebook" />
     </td>
     <td valign="top">
-      <a href="https://github.com/aikoian/Pesquisa-ADOS">
+      <a href="https://github.com/aikoian/Pesquisa-ADO">
         <img height="127em" src="https://github-readme-stats.vercel.app/api/pin/?username=aikoian&amp;repo=Pesquisa-ADO&amp;theme=holi" />
       </a>
       <br/>
