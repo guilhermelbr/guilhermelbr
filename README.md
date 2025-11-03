@@ -11,6 +11,9 @@
       <img height="127em" src="https://github-readme-stats.vercel.app/api/pin/?username=aikoian&amp;repo=Pesquisa-ADO&amp;theme=dracula"/>
       <br/>
       <img height="127em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=checkers_game&amp;theme=dracula"/>
+      <br/>
+      <img height="127em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=Popularidade-Spotify&amp;theme=dracula"/>
+      <br/>
     </td>
   </tr>
 </table>
