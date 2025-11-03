@@ -2,9 +2,9 @@
 <table align="center">
   <tr>
     <td valign="top">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermelbr&amp;show=prs_merged_percentage&amp;show_icons=true&amp;theme=dracula"/>
+      <img height="213em" src="https://github-readme-stats.vercel.app/api?username=guilhermelbr&amp;show=prs_merged_percentage&amp;show_icons=true&amp;theme=dracula"/>
       <br/>
-      <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelbr&amp;theme=dracula&amp;layout=compact&amp;size_weight=0&amp;count_weight=1&amp;hide=Jupyter+Notebook"/>
+      <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelbr&amp;theme=dracula&amp;layout=compact&amp;size_weight=0&amp;count_weight=1&amp;hide=Jupyter+Notebook"/>
     </td>
     
   <td valign="top">
