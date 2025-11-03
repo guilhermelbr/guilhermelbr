@@ -6,3 +6,6 @@
 </div>
 
 ##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aikoian&repo=Pesquisa-ADO&theme=dracula)](https://github.com/aikoian/Pesquisa-ADO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&repo=checkers_game&theme=dracula)](https://github.com/guilhermelbr/checkers_game)
