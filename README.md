@@ -12,14 +12,17 @@
         <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=aikoian&amp;repo=Pesquisa-ADO&amp;theme=holi" />
       </a>
       <br/>
-      <a href="https://github.com/guilhermelbr/checkers_game">
-        <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=checkers_game&amp;theme=holi"/>
-      </a>
-      <br/>
       <a href="https://github.com/guilhermelbr/coletor-api-reddit">
         <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=coletor-api-reddit&amp;theme=holi"/>
+      </a>
+      <br/>
+      <a href="https://github.com/guilhermelbr/checkers_game">
+        <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=checkers_game&amp;theme=holi"/>
       </a>
       <br/>
     </td>
   </tr>
 </table>
+
+
+
