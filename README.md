@@ -16,8 +16,8 @@
         <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=checkers_game&amp;theme=holi"/>
       </a>
       <br/>
-      <a href="https://github.com/guilhermelbr/Popularidade-Spotify">
-        <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=Popularidade-Spotify&amp;theme=holi"/>
+      <a href="https://github.com/guilhermelbr/coletor-api-reddit">
+        <img height="128em" src="https://github-readme-stats.vercel.app/api/pin/?username=guilhermelbr&amp;repo=coletor-api-reddit&amp;theme=holi"/>
       </a>
       <br/>
     </td>
